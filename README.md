@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=UTF-8 />
+  <title>Home</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com"> 
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
+  <link href="css/index.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+  
+<body>
+  <div class="container">
+  
+    <!-- NAVIGATION BAR -->
+    <div class="nav-wrapper">
+      <div class="brand">
+        <a href="index.html"><h1>Claudia E. Brunner</h1></a>
+      </div>
+      
+      <div class="nav-link-wrapper">
+        <a href="education.html">Education</a>
+      </div>
+      
+      <div class="nav-link-wrapper">
+        <a href="research.html">Research</a>
+      </div>
 
-You can use the [editor on GitHub](https://github.com/DrBaTuna/drbatuna.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+      <div class="nav-link-wrapper">
+        <a href="publications.html">Publications</a>
+      </div>
+      <!--
+      <div class="nav-link-wrapper">
+        <a href="teaching.html">Teaching</a>
+      </div>
+      
+      <div class="nav-link-wrapper">
+        <a href="service.html">Service</a>
+      </div>
+    -->
+    </div>
+    
+    <!--CONTENT-->
+    <div class="content-wrapper">
+      <div class="two-column-wrapper">
+        <div class="left-column-wrapper">
+          I am in the final year of my PhD degree in the Department of Mechanical and Aerospace Engineering at Princeton University, where I am advised by Prof. Marcus Hultmark. <b>My expertise is in the experimental study of large-scale unsteady and turbulent flows.</b> My doctoral research has focused on unsteady aerodynamics with applications for wind turbines. This work was funded by a National Defense Science and Engineering Graduate Fellowship. In my future research, I intend to apply my expertise to urban flow problems relevant for energy efficiency, climate resilience and public health.<br>
+          <br>
+          During my PhD, I was awarded a fellowship from the High Meadows Environmental Institute to study the offshore wind energy industry in the US at the Princeton School of Public and International Affairs. In the future, I will continue to supplement my engineering research with studies of relevant policy questions.<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DrBaTuna/drbatuna.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+          <p><a href="cv2021.pdf"><b>Curriculum Vitae (PDF)</b></a>
+            <!--<br>
+          cbrunner@princeton.edu</p> -->
+        </div>
+        <div class="right-column-wrapper">
+          <img src="images/portraitSept2021_final.jpg" alt="photo of Claudia Brunner" />
+        </div>
+      </div>
+    </div>
+    
+    <!--FOOTER-->
+    <div class="footer">
+    	&#169; Claudia Brunner 2021
+    </div>
+  </div>
+</body>
+</html>

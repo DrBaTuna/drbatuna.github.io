@@ -88,7 +88,7 @@
     
     <!--FOOTER-->
     <div class="footer">
-      &#169; BurakTuna2022
+	  <span style="font-size: 25px;">&#169;</span> BurakTuna2022
     </div>
   </div>
 </body>

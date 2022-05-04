@@ -96,9 +96,14 @@ h2 {
 	display: grid;
 	grid-template-columns: 0.25fr 0.75fr;
 }
+.education-wrapper2 {
+	display: grid;
+	grid-template-columns: 0.50fr 0.50fr;
+}
 
 .right-column-wrapper img {
-	width: 80%;
+	width: 60%;
+	margin-left:40px;
 }
 
 .single-column-wrapper {

@@ -84,17 +84,21 @@ h2 {
 .two-column-wrapper {
 	display: grid;
 	grid-template-columns: 0.75fr 0.25fr;
-	margin: 40px;
+	margin: 20px;
 	margin-top: 20px;
 }
 
 .left-column-wrapper {
-	margin-right:40px;
+	margin-right:20px;
 }
 
 .education-wrapper {
 	display: grid;
 	grid-template-columns: 0.25fr 0.75fr;
+}
+.education-wrapper2 {
+	display: grid;
+	grid-template-columns: 0.50fr 0.50fr;
 }
 
 .right-column-wrapper img {

@@ -43,8 +43,9 @@
     <div class="content-wrapper">
       <div class="two-column-wrapper">
         <div class="left-column-wrapper">
-          Dr. Tuna is a Research Scientist in National Center for Physical Acoustics at the University of Mississippi.His research interests lie in the general area of <b>fluid dynamics, aerodynamics,</b> and <b>aeroacoustics.</b> Specific areas of interest include but not limited to:<br>
-          <br>
+          <p>Dr. Tuna is a Research Scientist in National Center for Physical Acoustics at the University of Mississippi.His research interests lie in the general area of 
+		  <b>fluid dynamics, aerodynamics,</b> and <b>aeroacoustics.</b> 
+		  Specific areas of interest include but not limited to:<br>
 		  <ul>
 			  <li>Experimental Aerodynamics & Aeroacoustics</li>
 			  <li>Flow Control</li>
@@ -68,7 +69,7 @@
 			  <li>Big data in turbulence, renewable energy, aerospace and biomedical engineering</li>
 			  <li>Industrial Aerodynamics and Hydrodynamics</li>
 		  </ul>
-		  <br>
+		  </p>
           Dr. Tuna’s research approaches are a combined theory, experimental, and numerical approaches to gain insight into key flow phenomena and estimate main performance parameters. NCPA has a wide range of experimental facilities used to study rocket propulsion, bypass/annular nozzle testing, boundary layer development, laminar-to-turbulent transition, separated flows, wakes, and other external and internal flows of interest in fundamental fluid mechanics and engineering applications.<br>
 
           <p><a href="BurakA.TUNA_CV_202203.pdf"><b>Curriculum Vitae (PDF)</b></a>
@@ -76,7 +77,7 @@
           btuna@olemiss.edu</p> -->
         </div>
         <div class="right-column-wrapper">
-          <img src="images/batuna_profile.jpg" alt="photo of Burak Tuna" width="150" />
+          <img src="images/batuna_profile.jpg" alt="photo of Burak Tuna" width="100" />
         </div>
       </div>
     </div>

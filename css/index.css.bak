@@ -112,19 +112,3 @@ h2 {
 	text-align:center;
 	font-size:0.7em;
 }
-}
-
-.active-nav-link {
-	border-bottom: 1px solid black;
-}
-
-.active-nav-link a {
-	color: black !important;
-}
-
-.th-column-wrapper {
-	display: grid;
-	grid-template-columns: 0.25fr 0.25fr 0.50fr;
-	margin: 40px;
-	margin-top: 20px;
-}

@@ -98,7 +98,8 @@ h2 {
 }
 
 .right-column-wrapper img {
-	width: 80%;
+	width: 60%;
+	margin-left:40px;
 }
 
 .single-column-wrapper {

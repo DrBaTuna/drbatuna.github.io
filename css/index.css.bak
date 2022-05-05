@@ -104,6 +104,7 @@ h2 {
 
 .right-column-wrapper img {
 	width: 60%;
+	margin-left:30px;
 }
 
 .single-column-wrapper {

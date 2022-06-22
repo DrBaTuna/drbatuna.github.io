@@ -6,7 +6,7 @@
 body {
 	margin: 0px;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size:22px;
+	font-size:20px;
 	background-color:#f2f9ff;
 	line-height:1.6;
 }
@@ -44,7 +44,8 @@ h2 {
 
 .nav-wrapper {
 	display: flex;
-	padding: 38px;
+	padding: 40px;
+	padding-bottom: 10px;
 }
 
 .nav-wrapper > div {
@@ -84,13 +85,14 @@ h2 {
 .two-column-wrapper {
 	display: grid;
 	grid-template-columns: 0.75fr 0.25fr;
-	margin: 20px;
+	margin: 0px;
 	margin-left: 40px;
-	margin-top: 20px;
+	margin-top: 0px;
 }
 
 .left-column-wrapper {
 	margin-right:20px;
+	margin-top: 0px;
 }
 
 .education-wrapper {
@@ -105,11 +107,12 @@ h2 {
 .right-column-wrapper img {
 	width: 60%;
 	margin-left:30px;
+	margin-top: 10px;
 }
 
 .single-column-wrapper {
 	margin: 40px;
-	margin-top: 20px;
+	margin-top: 0px;
 }
 
 .footer {
@@ -132,5 +135,5 @@ h2 {
 	display: grid;
 	grid-template-columns: 0.25fr 0.25fr 0.50fr;
 	margin: 40px;
-	margin-top: 20px;
+	margin-top: 0px;
 }

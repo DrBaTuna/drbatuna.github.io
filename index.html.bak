@@ -38,21 +38,17 @@
       </div>
     -->
     </div>
-    
     <!--CONTENT-->
     <div class="content-wrapper">
       <div class="two-column-wrapper">
         <div class="left-column-wrapper">
           <p style="text-align:justify;"> Dr. Tuna is a Research Scientist in National Center for Physical Acoustics at the University of Mississippi.His research interests lie in the general area of 
-		  <b>fluid dynamics, aerodynamics,</b> and <b>aeroacoustics.</b> 
-          <p style="text-align:justify;">Dr. Tuna’s research approaches are a combined theory, experimental, and numerical approaches to gain insight into key flow phenomena and estimate main performance parameters. 
+		  <b>fluid dynamics, aerodynamics,</b> and <b>aeroacoustics.</b> <br>
+          Dr. Tuna’s research approaches are a combined theory, experimental, and numerical approaches to gain insight into key flow phenomena and estimate main performance parameters. 
 		  NCPA has a wide range of experimental facilities used to study rocket propulsion, bypass/annular nozzle testing, boundary layer development, laminar-to-turbulent transition, 
 		  separated flows, wakes, and other external and internal flows of interest in fundamental fluid mechanics and engineering applications. 
 		  An important aspect of the research conducted by his research team is improving existing experimental methods and developing new techniques for experimental research in fluid mechanics. 
-		  Both flow visualization and quantitative flow diagnostic are of interest.
-          </p>
-		  </p>
-		  <p>
+		  Both flow visualization and quantitative flow diagnostic are of interest.<br>
 		  Specific areas of interest include but not limited to:
 		  <ul>
 			  <li>Experimental Aerodynamics & Aeroacoustics</li>
@@ -78,24 +74,16 @@
 			  <li>Advanced Flow Diagnostics</li>
 			  <li>Big data in turbulence, renewable energy, aerospace and biomedical engineering</li>
 			  <li>Industrial Aerodynamics and Hydrodynamics</li>
-		  </ul>
+		  <ul>
 		  </p>
-		  <p><a href="BurakA.TUNA_CV_202203.pdf"><b>Curriculum Vitae (PDF)</b></a>
-            <!--<br>
-          btuna@olemiss.edu</p> -->
         </div>
         <div class="right-column-wrapper">
           <img src="images/batuna_profile.jpg" alt="photo of Burak Tuna" width="80" />
-		  <p style="text-align:justify;"> Burak Tuna, Ph.D.
-		  <b>e-mail (work):,<b> btuna@olemiss.edu 
-		  <b>e-mail (personal):,<b> BurakA.Tuna@gmail.edu 
-		  <b>e-mail (work):,<b> btuna@olemiss.edu 
-          <p style="text-align:justify;">Dr. Tuna’s research approaches are a combined theory, experimental, and numerical approaches to gain insight into key flow phenomena and estimate main performance parameters. 
-		  NCPA has a wide range of experimental facilities used to study rocket propulsion, bypass/annular nozzle testing, boundary layer development, laminar-to-turbulent transition, 
-		  separated flows, wakes, and other external and internal flows of interest in fundamental fluid mechanics and engineering applications. 
-		  An important aspect of the research conducted by his research team is improving existing experimental methods and developing new techniques for experimental research in fluid mechanics. 
-		  Both flow visualization and quantitative flow diagnostic are of interest.
-          </p>
+		  <p style="text-align:left;margin-left:30px;"> Burak Tuna, Ph.D.<br>
+		  <b>e-mail (work):</b> btuna@olemiss.edu <br>
+		  <b>e-mail (personal):</b> BurakA.Tuna@gmail.edu <br><br>
+		  <a href="https://www.linkedin.com/in/burakatuna/"><b>@LinkedIn<b><a><br>
+		  <a href="BurakA.TUNA_CV_202203.pdf"><b>@Curriculum Vitae (PDF)</b></a><br>
 		  </p>
         </div>
       </div>
